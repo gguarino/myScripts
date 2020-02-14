@@ -1,1 +1,1 @@
-# myPythonScripts
+# myScripts
