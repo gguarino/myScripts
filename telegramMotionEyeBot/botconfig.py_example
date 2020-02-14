@@ -1,0 +1,20 @@
+#!/usr/bin/python
+
+server='ssh.example.com'
+port=sshport
+username='username'
+password='password'
+
+screenshoturl='motioneyescreenshoturl'
+
+helpRows = [
+        'http://example.org:80',
+        'http://example.org:8081',
+        '/ledon',
+        '/ledoff',
+        '/screenshot'
+
+]
+
+botToken = "xxxxxxxxxxxxxxxxxxxxxxxxx"
+

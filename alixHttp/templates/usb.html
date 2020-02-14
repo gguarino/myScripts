@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta name="robots" content="noindex" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="{{static_url("pics/homescreen.gif")}}" rel="apple-touch-icon" />
+<meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport" />
+<link href="{{static_url("css/style.css")}}" rel="stylesheet" media="screen" type="text/css" />
+<script src="{{static_url("javascript/functions.js")}}" type="text/javascript"></script>
+<title>iWebKit Demo - Easy form elements!</title>
+<meta content="iPod,iPhone,Webkit,iWebkit,Website,Create,mobile,Tutorial,free" name="keywords" />
+<meta content="now completly styles thanks to css these form elements are lighter and easier to use than ever before." name="description" />
+</head>
+<!--  {{ static_url("test.txt") }} -->
+<body>
+
+<div id="topbar">
+	<div id="leftnav">
+		<a href="index.html"><img alt="home" src="{{static_url("images/home.png")}}" /></a><a href="navigation.html">Navigation</a></div>
+	<div id="rightnav">
+		<a href="integration.html">Integration</a></div>
+</div>
+<div class="searchbox">
+	<form action="" method="get">
+		<fieldset><input id="search" placeholder="search" type="text" />
+		<input id="submit" type="hidden" /></fieldset>
+	</form>
+</div>
+<div id="content">
+	<form method="POST" action="/daemon" style="margin: 0; text-align: center;">
+		<fieldset>
+		<span class="graytitle">Checkboxes</span>
+		<ul class="pageitem">
+			{% for service in services %}  {{ service.getName() }}
+			
+			<li class="checkbox"><span class="name">{{ service.getName() }} </span>
+			<input name="servname" value={{ service.getName() }} type="checkbox" /> </li>
+			
+			{% end %}
+		</ul>
+		</fieldset></form>
+</div>
+<div id="footer">
+	<!-- Support iWebKit by sending us traffic; please keep this footer on your page, consider it a thank you for my work :-) -->
+	<a class="noeffect" href="http://snippetspace.com">iPhone site powered by iWebKit</a></div>
+
+</body>
+
+</html>
+

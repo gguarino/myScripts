@@ -1,0 +1,20 @@
+#!/usr/bin/python3
+
+mongoDB="mongodb://localhost:27017"
+dbName="YOURDBNAME"
+
+helpRows = [
+    '/lista',
+    '/comprati',
+    '/aggiorna'
+]
+
+botToken = "TELEGRAM_BOT_TOKEN"
+
+url = "URL LISTA NASCITA"
+cookies = {
+    "KEY": "VALUE"
+}
+
+peppe='A TELEGRAMUSER ID'
+alice='A TELEGRAMUSER ID'

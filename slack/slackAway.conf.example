@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# Generate a token at https://api.slack.com/docs/oauth-test-tokens
+#
+# Tokens are just for you! Never share tokens with other users or applications.
+# Do not publish tokens in public code repositories.
+
+token="<SLACK_TOKEN_HERE>"

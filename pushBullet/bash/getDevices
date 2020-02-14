@@ -1,0 +1,9 @@
+#!/bin/bash
+THISSCRIPT=$(basename $0)
+
+APIKEY='YOUR_KEY_HERE'
+
+curl --header 'Access-Token: ${APIKEY}' \
+     https://api.pushbullet.com/v2/devices
+
+exit 0

@@ -1,0 +1,22 @@
+#!/bin/bash
+THISSCRIPT=$(basename $0)
+APIKEY='YOUR_KEY_HERE'
+DEVKEY='YOUR_DEVICE_KEY_HERE'
+
+if [ $# -eq 0 ]; then
+      printf "No arguments supplied\nExample: $THISSCRIPT title message_of_push\n"
+     exit 1
+elif [ -z "$2" ]; then
+     printf "No message supplied\nExample: $THISSCRIPT title text_of_push\n"
+     exit 2
+fi
+TITLE=$1
+MESSAGE=$2
+curl -k https://api.pushbullet.com/v2/pushes \
+      -u ${APIKEY}: \
+      -d device_iden=${DEVKEY} \
+      -d type=note \
+      -d title="$TITLE" \
+      -d body="$MESSAGE" \
+      -X POST > /dev/null 2>&1
+exit 0

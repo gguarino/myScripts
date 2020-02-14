@@ -1,0 +1,2087 @@
+From:	Dbcleaner
+Sent:	martedì 12 gennaio 2016 06:04
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Started orphans deletion process at NWZ
+
+The process started on 80.228.115.4 at Tue Jan 12 06:03:57 CET 2016
+
+Elements processed until now: 34,731,682
+Elements to be process: 1,205,016
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 12 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Jan 11 06:03:21 CET 2016
+The process ended on 80.228.115.4 at Tue Jan 12 04:00:11 CET 2016
+
+Elements already processed before start: 34,101,632
+Elements found at start: 1,205,016
+Elements processed in this execution: 630,050
+Elements not processed in this execution: 574,966
+Elements processed until now: 34,731,682
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 12 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Jan 11 06:03:21 CET 2016
+The process ended on 80.228.115.4 at Tue Jan 12 04:00:11 CET 2016
+
+Elements already processed before start: 34,101,632
+Elements found at start: 1,205,016
+Elements processed in this execution: 630,050
+Elements not processed in this execution: 574,966
+Elements processed until now: 34,731,682
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 11 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Jan 10 06:02:27 CET 2016
+The process ended on 80.228.115.4 at Mon Jan 11 04:00:11 CET 2016
+
+Elements already processed before start: 33,470,857
+Elements found at start: 1,205,016
+Elements processed in this execution: 630,775
+Elements not processed in this execution: 574,241
+Elements processed until now: 34,101,632
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 9 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Jan 08 06:02:08 CET 2016
+The process ended on 80.228.115.4 at Sat Jan 09 04:00:11 CET 2016
+
+Elements already processed before start: 32,569,257
+Elements found at start: 1,205,016
+Elements processed in this execution: 642,350
+Elements not processed in this execution: 562,666
+Elements processed until now: 33,211,607
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 8 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Jan 07 06:02:35 CET 2016
+The process ended on 80.228.115.4 at Fri Jan 08 04:00:12 CET 2016
+
+Elements already processed before start: 31,949,282
+Elements found at start: 1,205,016
+Elements processed in this execution: 619,975
+Elements not processed in this execution: 585,041
+Elements processed until now: 32,569,257
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 7 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Jan 06 06:02:45 CET 2016
+The process ended on 80.228.115.4 at Thu Jan 07 04:00:14 CET 2016
+
+Elements already processed before start: 31,362,857
+Elements found at start: 1,205,016
+Elements processed in this execution: 586,425
+Elements not processed in this execution: 618,591
+Elements processed until now: 31,949,282
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 6 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Jan 05 06:02:34 CET 2016
+The process ended on 80.228.115.4 at Wed Jan 06 04:00:10 CET 2016
+
+Elements already processed before start: 30,772,532
+Elements found at start: 1,205,016
+Elements processed in this execution: 590,325
+Elements not processed in this execution: 614,691
+Elements processed until now: 31,362,857
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 5 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Jan 04 06:02:34 CET 2016
+The process ended on 80.228.115.4 at Tue Jan 05 04:00:15 CET 2016
+
+Elements already processed before start: 30,218,782
+Elements found at start: 1,205,016
+Elements processed in this execution: 553,750
+Elements not processed in this execution: 651,266
+Elements processed until now: 30,772,532
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 4 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Jan 03 06:02:29 CET 2016
+The process ended on 80.228.115.4 at Mon Jan 04 04:00:14 CET 2016
+
+Elements already processed before start: 29,628,507
+Elements found at start: 1,205,016
+Elements processed in this execution: 590,275
+Elements not processed in this execution: 614,741
+Elements processed until now: 30,218,782
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 3 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Jan 02 06:03:20 CET 2016
+The process ended on 80.228.115.4 at Sun Jan 03 04:00:13 CET 2016
+
+Elements already processed before start: 29,052,482
+Elements found at start: 1,205,016
+Elements processed in this execution: 576,025
+Elements not processed in this execution: 628,991
+Elements processed until now: 29,628,507
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 2 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Jan 01 06:02:40 CET 2016
+The process ended on 80.228.115.4 at Sat Jan 02 04:00:17 CET 2016
+
+Elements already processed before start: 28,479,957
+Elements found at start: 1,205,016
+Elements processed in this execution: 572,525
+Elements not processed in this execution: 632,491
+Elements processed until now: 29,052,482
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 1 gennaio 2016 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Dec 31 06:02:27 CET 2015
+The process ended on 80.228.115.4 at Fri Jan 01 04:00:15 CET 2016
+
+Elements already processed before start: 27,905,332
+Elements found at start: 1,205,016
+Elements processed in this execution: 574,625
+Elements not processed in this execution: 630,391
+Elements processed until now: 28,479,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 29 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Dec 28 06:02:45 CET 2015
+The process ended on 80.228.115.4 at Tue Dec 29 04:00:12 CET 2015
+
+Elements already processed before start: 26,686,557
+Elements found at start: 1,205,016
+Elements processed in this execution: 559,900
+Elements not processed in this execution: 645,116
+Elements processed until now: 27,246,457
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 28 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Dec 27 06:03:00 CET 2015
+The process ended on 80.228.115.4 at Mon Dec 28 04:00:13 CET 2015
+
+Elements already processed before start: 26,114,232
+Elements found at start: 1,205,016
+Elements processed in this execution: 572,325
+Elements not processed in this execution: 632,691
+Elements processed until now: 26,686,557
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 27 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Dec 26 06:02:53 CET 2015
+The process ended on 80.228.115.4 at Sun Dec 27 04:00:14 CET 2015
+
+Elements already processed before start: 25,552,582
+Elements found at start: 1,205,016
+Elements processed in this execution: 561,650
+Elements not processed in this execution: 643,366
+Elements processed until now: 26,114,232
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 26 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Dec 25 06:02:35 CET 2015
+The process ended on 80.228.115.4 at Sat Dec 26 04:00:12 CET 2015
+
+Elements already processed before start: 24,972,582
+Elements found at start: 1,205,016
+Elements processed in this execution: 580,000
+Elements not processed in this execution: 625,016
+Elements processed until now: 25,552,582
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 25 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Dec 24 06:02:54 CET 2015
+The process ended on 80.228.115.4 at Fri Dec 25 04:00:12 CET 2015
+
+Elements already processed before start: 24,394,707
+Elements found at start: 1,205,016
+Elements processed in this execution: 577,875
+Elements not processed in this execution: 627,141
+Elements processed until now: 24,972,582
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 24 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Dec 23 06:02:39 CET 2015
+The process ended on 80.228.115.4 at Thu Dec 24 04:00:15 CET 2015
+
+Elements already processed before start: 23,845,932
+Elements found at start: 1,205,016
+Elements processed in this execution: 548,775
+Elements not processed in this execution: 656,241
+Elements processed until now: 24,394,707
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 23 dicembre 2015 02:42
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Dec 22 06:01:43 CET 2015
+The process ended on 80.228.115.4 at Wed Dec 23 02:41:47 CET 2015
+
+Elements already processed before start: 23,345,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 23,845,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 22 dicembre 2015 02:59
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Dec 21 06:01:56 CET 2015
+The process ended on 80.228.115.4 at Tue Dec 22 02:58:48 CET 2015
+
+Elements already processed before start: 22,845,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 23,345,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 21 dicembre 2015 02:47
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Dec 20 06:02:10 CET 2015
+The process ended on 80.228.115.4 at Mon Dec 21 02:46:56 CET 2015
+
+Elements already processed before start: 22,345,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 22,845,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 20 dicembre 2015 02:34
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Dec 19 06:02:10 CET 2015
+The process ended on 80.228.115.4 at Sun Dec 20 02:33:53 CET 2015
+
+Elements already processed before start: 21,845,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 22,345,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 19 dicembre 2015 03:29
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Dec 18 06:01:47 CET 2015
+The process ended on 80.228.115.4 at Sat Dec 19 03:28:39 CET 2015
+
+Elements already processed before start: 21,345,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 21,845,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 18 dicembre 2015 03:13
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Dec 17 06:02:00 CET 2015
+The process ended on 80.228.115.4 at Fri Dec 18 03:12:57 CET 2015
+
+Elements already processed before start: 20,845,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 21,345,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 17 dicembre 2015 02:54
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Dec 16 06:01:54 CET 2015
+The process ended on 80.228.115.4 at Thu Dec 17 02:54:19 CET 2015
+
+Elements already processed before start: 20,345,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 20,845,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 16 dicembre 2015 03:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Dec 15 06:02:12 CET 2015
+The process ended on 80.228.115.4 at Wed Dec 16 02:59:59 CET 2015
+
+Elements already processed before start: 19,845,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 20,345,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 15 dicembre 2015 03:07
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Dec 14 06:01:35 CET 2015
+The process ended on 80.228.115.4 at Tue Dec 15 03:06:53 CET 2015
+
+Elements already processed before start: 19,345,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 19,845,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 14 dicembre 2015 03:28
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Dec 13 06:02:38 CET 2015
+The process ended on 80.228.115.4 at Mon Dec 14 03:27:35 CET 2015
+
+Elements already processed before start: 18,845,932
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 19,345,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 13 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Dec 12 06:01:46 CET 2015
+The process ended on 80.228.115.4 at Sun Dec 13 04:00:04 CET 2015
+
+Elements already processed before start: 18,357,332
+Elements found at start: 618,792
+Elements processed in this execution: 488,600
+Elements not processed in this execution: 130,192
+Elements processed until now: 18,845,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 12 dicembre 2015 03:23
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Dec 11 06:01:32 CET 2015
+The process ended on 80.228.115.4 at Sat Dec 12 03:22:33 CET 2015
+
+Elements already processed before start: 17,857,332
+Elements found at start: 618,792
+Elements processed in this execution: 500,000
+Elements not processed in this execution: 118,792
+Elements processed until now: 18,357,332
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 11 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Dec 10 06:01:40 CET 2015
+The process ended on 80.228.115.4 at Fri Dec 11 04:00:03 CET 2015
+
+Elements already processed before start: 17,360,482
+Elements found at start: 618,792
+Elements processed in this execution: 496,850
+Elements not processed in this execution: 121,942
+Elements processed until now: 17,857,332
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 10 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Dec 09 06:01:43 CET 2015
+The process ended on 80.228.115.4 at Thu Dec 10 04:00:05 CET 2015
+
+Elements already processed before start: 16,871,582
+Elements found at start: 618,792
+Elements processed in this execution: 488,900
+Elements not processed in this execution: 129,892
+Elements processed until now: 17,360,482
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 9 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Dec 08 06:01:37 CET 2015
+The process ended on 80.228.115.4 at Wed Dec 09 04:00:03 CET 2015
+
+Elements already processed before start: 16,378,957
+Elements found at start: 618,792
+Elements processed in this execution: 492,625
+Elements not processed in this execution: 126,167
+Elements processed until now: 16,871,582
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 8 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Dec 07 06:02:12 CET 2015
+The process ended on 80.228.115.4 at Tue Dec 08 04:00:02 CET 2015
+
+Elements already processed before start: 15,889,757
+Elements found at start: 618,792
+Elements processed in this execution: 489,200
+Elements not processed in this execution: 129,592
+Elements processed until now: 16,378,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 7 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Dec 06 06:02:05 CET 2015
+The process ended on 80.228.115.4 at Mon Dec 07 04:00:02 CET 2015
+
+Elements already processed before start: 15,396,957
+Elements found at start: 618,792
+Elements processed in this execution: 492,800
+Elements not processed in this execution: 125,992
+Elements processed until now: 15,889,757
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 6 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Dec 05 06:01:55 CET 2015
+The process ended on 80.228.115.4 at Sun Dec 06 04:00:04 CET 2015
+
+Elements already processed before start: 14,944,607
+Elements found at start: 618,792
+Elements processed in this execution: 452,350
+Elements not processed in this execution: 166,442
+Elements processed until now: 15,396,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 5 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Dec 04 06:02:19 CET 2015
+The process ended on 80.228.115.4 at Sat Dec 05 04:00:04 CET 2015
+
+Elements already processed before start: 14,474,032
+Elements found at start: 618,792
+Elements processed in this execution: 470,575
+Elements not processed in this execution: 148,217
+Elements processed until now: 14,944,607
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 4 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Dec 03 06:02:35 CET 2015
+The process ended on 80.228.115.4 at Fri Dec 04 04:00:05 CET 2015
+
+Elements already processed before start: 14,003,157
+Elements found at start: 618,792
+Elements processed in this execution: 470,875
+Elements not processed in this execution: 147,917
+Elements processed until now: 14,474,032
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 3 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Dec 02 06:02:10 CET 2015
+The process ended on 80.228.115.4 at Thu Dec 03 04:00:06 CET 2015
+
+Elements already processed before start: 13,539,482
+Elements found at start: 618,792
+Elements processed in this execution: 463,675
+Elements not processed in this execution: 155,117
+Elements processed until now: 14,003,157
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 2 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Dec 01 06:02:04 CET 2015
+The process ended on 80.228.115.4 at Wed Dec 02 04:00:03 CET 2015
+
+Elements already processed before start: 13,109,732
+Elements found at start: 618,792
+Elements processed in this execution: 429,750
+Elements not processed in this execution: 189,042
+Elements processed until now: 13,539,482
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 1 dicembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Nov 30 06:02:16 CET 2015
+The process ended on 80.228.115.4 at Tue Dec 01 04:00:04 CET 2015
+
+Elements already processed before start: 12,653,657
+Elements found at start: 618,792
+Elements processed in this execution: 456,075
+Elements not processed in this execution: 162,717
+Elements processed until now: 13,109,732
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 30 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Nov 29 06:02:24 CET 2015
+The process ended on 80.228.115.4 at Mon Nov 30 04:00:05 CET 2015
+
+Elements already processed before start: 12,197,232
+Elements found at start: 618,792
+Elements processed in this execution: 456,425
+Elements not processed in this execution: 162,367
+Elements processed until now: 12,653,657
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 29 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Nov 28 06:03:46 CET 2015
+The process ended on 80.228.115.4 at Sun Nov 29 04:00:02 CET 2015
+
+Elements already processed before start: 11,727,157
+Elements found at start: 618,792
+Elements processed in this execution: 470,075
+Elements not processed in this execution: 148,717
+Elements processed until now: 12,197,232
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 28 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Nov 27 06:02:20 CET 2015
+The process ended on 80.228.115.4 at Sat Nov 28 04:00:05 CET 2015
+
+Elements already processed before start: 11,273,882
+Elements found at start: 618,792
+Elements processed in this execution: 453,275
+Elements not processed in this execution: 165,517
+Elements processed until now: 11,727,157
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 27 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Nov 26 06:02:25 CET 2015
+The process ended on 80.228.115.4 at Fri Nov 27 04:00:05 CET 2015
+
+Elements already processed before start: 10,830,457
+Elements found at start: 618,792
+Elements processed in this execution: 443,425
+Elements not processed in this execution: 175,367
+Elements processed until now: 11,273,882
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 26 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Nov 25 06:01:57 CET 2015
+The process ended on 80.228.115.4 at Thu Nov 26 04:00:05 CET 2015
+
+Elements already processed before start: 10,381,482
+Elements found at start: 618,792
+Elements processed in this execution: 448,975
+Elements not processed in this execution: 169,817
+Elements processed until now: 10,830,457
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 25 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Nov 24 06:02:52 CET 2015
+The process ended on 80.228.115.4 at Wed Nov 25 04:00:03 CET 2015
+
+Elements already processed before start: 9,944,882
+Elements found at start: 618,792
+Elements processed in this execution: 436,600
+Elements not processed in this execution: 182,192
+Elements processed until now: 10,381,482
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 24 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Nov 23 06:02:01 CET 2015
+The process ended on 80.228.115.4 at Tue Nov 24 04:00:03 CET 2015
+
+Elements already processed before start: 9,509,832
+Elements found at start: 618,792
+Elements processed in this execution: 435,050
+Elements not processed in this execution: 183,742
+Elements processed until now: 9,944,882
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 23 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Nov 22 06:01:47 CET 2015
+The process ended on 80.228.115.4 at Mon Nov 23 04:00:03 CET 2015
+
+Elements already processed before start: 9,093,132
+Elements found at start: 618,792
+Elements processed in this execution: 416,700
+Elements not processed in this execution: 202,092
+Elements processed until now: 9,509,832
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 20 novembre 2015 21:48
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Nov 20 06:01:29 CET 2015
+The process ended on 80.228.115.4 at Fri Nov 20 21:48:15 CET 2015
+
+Elements already processed before start: 8,444,457
+Elements found at start: 325,680
+Elements processed in this execution: 300,000
+Elements not processed in this execution: 25,680
+Elements processed until now: 8,744,457
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 19 novembre 2015 21:21
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Nov 19 06:01:33 CET 2015
+The process ended on 80.228.115.4 at Thu Nov 19 21:20:59 CET 2015
+
+Elements already processed before start: 8,144,457
+Elements found at start: 325,680
+Elements processed in this execution: 300,000
+Elements not processed in this execution: 25,680
+Elements processed until now: 8,444,457
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 18 novembre 2015 21:18
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Nov 18 06:01:37 CET 2015
+The process ended on 80.228.115.4 at Wed Nov 18 21:17:34 CET 2015
+
+Elements already processed before start: 7,844,457
+Elements found at start: 325,680
+Elements processed in this execution: 300,000
+Elements not processed in this execution: 25,680
+Elements processed until now: 8,144,457
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 18 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Nov 17 15:11:45 CET 2015
+The process ended on 80.228.115.4 at Wed Nov 18 04:00:04 CET 2015
+
+Elements already processed before start: 7,596,007
+Elements found at start: 325,680
+Elements processed in this execution: 248,450
+Elements not processed in this execution: 77,230
+Elements processed until now: 7,844,457
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 17 novembre 2015 15:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Nov 17 10:13:17 CET 2015
+The process ended on 80.228.115.4 at Tue Nov 17 15:00:04 CET 2015
+
+Elements already processed before start: 7,508,307
+Elements found at start: 325,680
+Elements processed in this execution: 87,700
+Elements not processed in this execution: 237,980
+Elements processed until now: 7,596,007
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 17 novembre 2015 09:37
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Nov 17 09:36:33 CET 2015
+The process ended on 80.228.115.4 at Tue Nov 17 09:36:57 CET 2015
+
+Elements already processed before start: 7,508,307
+Elements found at start: 325,680
+Elements processed in this execution: 0
+Elements not processed in this execution: 325,680
+Elements processed until now: 7,508,307
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 17 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Nov 16 23:01:59 CET 2015
+The process ended on 80.228.115.4 at Tue Nov 17 04:00:07 CET 2015
+
+Elements already processed before start: 7,405,007
+Elements found at start: 325,680
+Elements processed in this execution: 103,300
+Elements not processed in this execution: 222,380
+Elements processed until now: 7,508,307
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 16 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Nov 15 23:01:59 CET 2015
+The process ended on 80.228.115.4 at Mon Nov 16 04:00:13 CET 2015
+
+Elements already processed before start: 7,336,032
+Elements found at start: 325,680
+Elements processed in this execution: 68,975
+Elements not processed in this execution: 256,705
+Elements processed until now: 7,405,007
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 15 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Nov 14 23:02:14 CET 2015
+The process ended on 80.228.115.4 at Sun Nov 15 04:00:09 CET 2015
+
+Elements already processed before start: 7,272,557
+Elements found at start: 325,680
+Elements processed in this execution: 63,475
+Elements not processed in this execution: 262,205
+Elements processed until now: 7,336,032
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 14 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Nov 13 23:02:27 CET 2015
+The process ended on 80.228.115.4 at Sat Nov 14 04:00:07 CET 2015
+
+Elements already processed before start: 7,208,732
+Elements found at start: 325,680
+Elements processed in this execution: 63,825
+Elements not processed in this execution: 261,855
+Elements processed until now: 7,272,557
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 13 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Nov 12 23:02:10 CET 2015
+The process ended on 80.228.115.4 at Fri Nov 13 04:00:12 CET 2015
+
+Elements already processed before start: 7,138,757
+Elements found at start: 325,680
+Elements processed in this execution: 69,975
+Elements not processed in this execution: 255,705
+Elements processed until now: 7,208,732
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 12 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Nov 11 23:01:53 CET 2015
+The process ended on 80.228.115.4 at Thu Nov 12 04:00:10 CET 2015
+
+Elements already processed before start: 7,073,857
+Elements found at start: 325,680
+Elements processed in this execution: 64,900
+Elements not processed in this execution: 260,780
+Elements processed until now: 7,138,757
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 11 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Nov 10 23:02:06 CET 2015
+The process ended on 80.228.115.4 at Wed Nov 11 04:00:11 CET 2015
+
+Elements already processed before start: 7,022,307
+Elements found at start: 325,680
+Elements processed in this execution: 51,550
+Elements not processed in this execution: 274,130
+Elements processed until now: 7,073,857
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 10 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Nov 09 23:01:33 CET 2015
+The process ended on 80.228.115.4 at Tue Nov 10 04:00:07 CET 2015
+
+Elements already processed before start: 6,956,407
+Elements found at start: 325,680
+Elements processed in this execution: 65,900
+Elements not processed in this execution: 259,780
+Elements processed until now: 7,022,307
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 9 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Nov 08 23:01:31 CET 2015
+The process ended on 80.228.115.4 at Mon Nov 09 04:00:07 CET 2015
+
+Elements already processed before start: 6,889,782
+Elements found at start: 325,680
+Elements processed in this execution: 66,625
+Elements not processed in this execution: 259,055
+Elements processed until now: 6,956,407
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 7 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Nov 06 23:03:12 CET 2015
+The process ended on 80.228.115.4 at Sat Nov 07 04:00:06 CET 2015
+
+Elements already processed before start: 6,822,057
+Elements found at start: 325,680
+Elements processed in this execution: 67,725
+Elements not processed in this execution: 257,955
+Elements processed until now: 6,889,782
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 6 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Nov 05 23:02:36 CET 2015
+The process ended on 80.228.115.4 at Fri Nov 06 04:00:09 CET 2015
+
+Elements already processed before start: 6,753,407
+Elements found at start: 325,680
+Elements processed in this execution: 68,650
+Elements not processed in this execution: 257,030
+Elements processed until now: 6,822,057
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 5 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Nov 04 23:03:15 CET 2015
+The process ended on 80.228.115.4 at Thu Nov 05 04:00:09 CET 2015
+
+Elements already processed before start: 6,690,857
+Elements found at start: 325,680
+Elements processed in this execution: 62,550
+Elements not processed in this execution: 263,130
+Elements processed until now: 6,753,407
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 4 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Nov 03 23:03:49 CET 2015
+The process ended on 80.228.115.4 at Wed Nov 04 04:00:05 CET 2015
+
+Elements already processed before start: 6,627,732
+Elements found at start: 325,680
+Elements processed in this execution: 63,125
+Elements not processed in this execution: 262,555
+Elements processed until now: 6,690,857
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 3 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Nov 02 23:04:11 CET 2015
+The process ended on 80.228.115.4 at Tue Nov 03 04:00:12 CET 2015
+
+Elements already processed before start: 6,568,732
+Elements found at start: 325,680
+Elements processed in this execution: 59,000
+Elements not processed in this execution: 266,680
+Elements processed until now: 6,627,732
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 2 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Nov 01 23:03:30 CET 2015
+The process ended on 80.228.115.4 at Mon Nov 02 04:00:05 CET 2015
+
+Elements already processed before start: 6,501,557
+Elements found at start: 325,680
+Elements processed in this execution: 67,175
+Elements not processed in this execution: 258,505
+Elements processed until now: 6,568,732
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 1 novembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Oct 31 23:02:47 CET 2015
+The process ended on 80.228.115.4 at Sun Nov 01 04:00:09 CET 2015
+
+Elements already processed before start: 6,434,507
+Elements found at start: 325,680
+Elements processed in this execution: 67,050
+Elements not processed in this execution: 258,630
+Elements processed until now: 6,501,557
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 31 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Oct 30 23:03:24 CET 2015
+The process ended on 80.228.115.4 at Sat Oct 31 04:00:07 CET 2015
+
+Elements already processed before start: 6,368,132
+Elements found at start: 325,680
+Elements processed in this execution: 66,375
+Elements not processed in this execution: 259,305
+Elements processed until now: 6,434,507
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 30 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Oct 29 23:03:58 CET 2015
+The process ended on 80.228.115.4 at Fri Oct 30 04:00:08 CET 2015
+
+Elements already processed before start: 6,299,207
+Elements found at start: 325,680
+Elements processed in this execution: 68,925
+Elements not processed in this execution: 256,755
+Elements processed until now: 6,368,132
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 29 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Oct 28 23:04:07 CET 2015
+The process ended on 80.228.115.4 at Thu Oct 29 04:00:09 CET 2015
+
+Elements already processed before start: 6,234,307
+Elements found at start: 325,680
+Elements processed in this execution: 64,900
+Elements not processed in this execution: 260,780
+Elements processed until now: 6,299,207
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 28 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Oct 27 23:05:02 CET 2015
+The process ended on 80.228.115.4 at Wed Oct 28 04:00:11 CET 2015
+
+Elements already processed before start: 6,173,932
+Elements found at start: 325,680
+Elements processed in this execution: 60,375
+Elements not processed in this execution: 265,305
+Elements processed until now: 6,234,307
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 27 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Oct 26 23:03:32 CET 2015
+The process ended on 80.228.115.4 at Tue Oct 27 04:00:13 CET 2015
+
+Elements already processed before start: 6,107,132
+Elements found at start: 325,680
+Elements processed in this execution: 66,800
+Elements not processed in this execution: 258,880
+Elements processed until now: 6,173,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 26 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Oct 25 23:04:44 CET 2015
+The process ended on 80.228.115.4 at Mon Oct 26 04:00:08 CET 2015
+
+Elements already processed before start: 6,045,732
+Elements found at start: 325,680
+Elements processed in this execution: 61,400
+Elements not processed in this execution: 264,280
+Elements processed until now: 6,107,132
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 25 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Oct 24 23:03:30 CEST 2015
+The process ended on 80.228.115.4 at Sun Oct 25 04:00:09 CET 2015
+
+Elements already processed before start: 5,966,957
+Elements found at start: 325,680
+Elements processed in this execution: 78,775
+Elements not processed in this execution: 246,905
+Elements processed until now: 6,045,732
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 24 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Oct 23 23:03:50 CEST 2015
+The process ended on 80.228.115.4 at Sat Oct 24 04:00:10 CEST 2015
+
+Elements already processed before start: 5,900,657
+Elements found at start: 325,680
+Elements processed in this execution: 66,300
+Elements not processed in this execution: 259,380
+Elements processed until now: 5,966,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 23 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Oct 22 23:03:05 CEST 2015
+The process ended on 80.228.115.4 at Fri Oct 23 04:00:06 CEST 2015
+
+Elements already processed before start: 5,834,132
+Elements found at start: 325,680
+Elements processed in this execution: 66,525
+Elements not processed in this execution: 259,155
+Elements processed until now: 5,900,657
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 22 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Oct 21 23:03:42 CEST 2015
+The process ended on 80.228.115.4 at Thu Oct 22 04:00:11 CEST 2015
+
+Elements already processed before start: 5,774,882
+Elements found at start: 325,680
+Elements processed in this execution: 59,250
+Elements not processed in this execution: 266,430
+Elements processed until now: 5,834,132
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 21 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Oct 20 23:02:53 CEST 2015
+The process ended on 80.228.115.4 at Wed Oct 21 04:00:12 CEST 2015
+
+Elements already processed before start: 5,714,182
+Elements found at start: 325,680
+Elements processed in this execution: 60,700
+Elements not processed in this execution: 264,980
+Elements processed until now: 5,774,882
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 20 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Oct 19 23:02:44 CEST 2015
+The process ended on 80.228.115.4 at Tue Oct 20 04:00:06 CEST 2015
+
+Elements already processed before start: 5,647,232
+Elements found at start: 325,680
+Elements processed in this execution: 66,950
+Elements not processed in this execution: 258,730
+Elements processed until now: 5,714,182
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 19 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Oct 18 23:03:35 CEST 2015
+The process ended on 80.228.115.4 at Mon Oct 19 04:00:07 CEST 2015
+
+Elements already processed before start: 5,581,157
+Elements found at start: 325,680
+Elements processed in this execution: 66,075
+Elements not processed in this execution: 259,605
+Elements processed until now: 5,647,232
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 18 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Oct 17 23:03:02 CEST 2015
+The process ended on 80.228.115.4 at Sun Oct 18 04:00:10 CEST 2015
+
+Elements already processed before start: 5,518,157
+Elements found at start: 325,680
+Elements processed in this execution: 63,000
+Elements not processed in this execution: 262,680
+Elements processed until now: 5,581,157
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 17 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Oct 16 23:06:22 CEST 2015
+The process ended on 80.228.115.4 at Sat Oct 17 04:00:13 CEST 2015
+
+Elements already processed before start: 5,456,707
+Elements found at start: 325,680
+Elements processed in this execution: 61,450
+Elements not processed in this execution: 264,230
+Elements processed until now: 5,518,157
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 16 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Oct 15 23:04:08 CEST 2015
+The process ended on 80.228.115.4 at Fri Oct 16 04:00:05 CEST 2015
+
+Elements already processed before start: 5,389,682
+Elements found at start: 325,680
+Elements processed in this execution: 67,025
+Elements not processed in this execution: 258,655
+Elements processed until now: 5,456,707
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 15 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Oct 14 23:04:29 CEST 2015
+The process ended on 80.228.115.4 at Thu Oct 15 04:00:10 CEST 2015
+
+Elements already processed before start: 5,327,982
+Elements found at start: 325,680
+Elements processed in this execution: 61,700
+Elements not processed in this execution: 263,980
+Elements processed until now: 5,389,682
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 14 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Oct 13 23:04:32 CEST 2015
+The process ended on 80.228.115.4 at Wed Oct 14 04:00:10 CEST 2015
+
+Elements already processed before start: 5,253,882
+Elements found at start: 325,680
+Elements processed in this execution: 74,100
+Elements not processed in this execution: 251,580
+Elements processed until now: 5,327,982
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 13 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Oct 12 23:04:34 CEST 2015
+The process ended on 80.228.115.4 at Tue Oct 13 04:00:09 CEST 2015
+
+Elements already processed before start: 5,187,682
+Elements found at start: 325,680
+Elements processed in this execution: 66,200
+Elements not processed in this execution: 259,480
+Elements processed until now: 5,253,882
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 12 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Oct 11 23:03:34 CEST 2015
+The process ended on 80.228.115.4 at Mon Oct 12 04:00:10 CEST 2015
+
+Elements already processed before start: 5,122,307
+Elements found at start: 325,680
+Elements processed in this execution: 65,375
+Elements not processed in this execution: 260,305
+Elements processed until now: 5,187,682
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 11 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Oct 10 23:03:38 CEST 2015
+The process ended on 80.228.115.4 at Sun Oct 11 04:00:11 CEST 2015
+
+Elements already processed before start: 5,056,832
+Elements found at start: 325,680
+Elements processed in this execution: 65,475
+Elements not processed in this execution: 260,205
+Elements processed until now: 5,122,307
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 10 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Oct 09 23:03:40 CEST 2015
+The process ended on 80.228.115.4 at Sat Oct 10 04:00:09 CEST 2015
+
+Elements already processed before start: 4,988,257
+Elements found at start: 325,680
+Elements processed in this execution: 68,575
+Elements not processed in this execution: 257,105
+Elements processed until now: 5,056,832
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 9 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Oct 08 23:04:46 CEST 2015
+The process ended on 80.228.115.4 at Fri Oct 09 04:00:08 CEST 2015
+
+Elements already processed before start: 4,923,607
+Elements found at start: 325,680
+Elements processed in this execution: 64,650
+Elements not processed in this execution: 261,030
+Elements processed until now: 4,988,257
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 8 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Oct 07 23:03:54 CEST 2015
+The process ended on 80.228.115.4 at Thu Oct 08 04:00:10 CEST 2015
+
+Elements already processed before start: 4,862,832
+Elements found at start: 325,680
+Elements processed in this execution: 60,775
+Elements not processed in this execution: 264,905
+Elements processed until now: 4,923,607
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 7 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Oct 06 23:03:42 CEST 2015
+The process ended on 80.228.115.4 at Wed Oct 07 04:00:09 CEST 2015
+
+Elements already processed before start: 4,802,482
+Elements found at start: 325,680
+Elements processed in this execution: 60,350
+Elements not processed in this execution: 265,330
+Elements processed until now: 4,862,832
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 6 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Oct 05 23:04:59 CEST 2015
+The process ended on 80.228.115.4 at Tue Oct 06 04:00:12 CEST 2015
+
+Elements already processed before start: 4,746,932
+Elements found at start: 325,680
+Elements processed in this execution: 55,550
+Elements not processed in this execution: 270,130
+Elements processed until now: 4,802,482
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 5 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Oct 04 23:04:40 CEST 2015
+The process ended on 80.228.115.4 at Mon Oct 05 04:00:14 CEST 2015
+
+Elements already processed before start: 4,689,057
+Elements found at start: 325,680
+Elements processed in this execution: 57,875
+Elements not processed in this execution: 267,805
+Elements processed until now: 4,746,932
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 4 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Oct 03 23:04:01 CEST 2015
+The process ended on 80.228.115.4 at Sun Oct 04 04:00:07 CEST 2015
+
+Elements already processed before start: 4,633,282
+Elements found at start: 325,680
+Elements processed in this execution: 55,775
+Elements not processed in this execution: 269,905
+Elements processed until now: 4,689,057
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 3 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Oct 02 23:05:49 CEST 2015
+The process ended on 80.228.115.4 at Sat Oct 03 04:00:15 CEST 2015
+
+Elements already processed before start: 4,578,182
+Elements found at start: 325,680
+Elements processed in this execution: 55,100
+Elements not processed in this execution: 270,580
+Elements processed until now: 4,633,282
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 2 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Oct 01 23:04:58 CEST 2015
+The process ended on 80.228.115.4 at Fri Oct 02 04:00:09 CEST 2015
+
+Elements already processed before start: 4,523,707
+Elements found at start: 325,680
+Elements processed in this execution: 54,475
+Elements not processed in this execution: 271,205
+Elements processed until now: 4,578,182
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 1 ottobre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Sep 30 23:05:21 CEST 2015
+The process ended on 80.228.115.4 at Thu Oct 01 04:00:08 CEST 2015
+
+Elements already processed before start: 4,467,257
+Elements found at start: 325,680
+Elements processed in this execution: 56,450
+Elements not processed in this execution: 269,230
+Elements processed until now: 4,523,707
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 30 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Sep 29 23:05:32 CEST 2015
+The process ended on 80.228.115.4 at Wed Sep 30 04:00:11 CEST 2015
+
+Elements already processed before start: 4,414,557
+Elements found at start: 325,680
+Elements processed in this execution: 52,700
+Elements not processed in this execution: 272,980
+Elements processed until now: 4,467,257
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 29 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Sep 28 23:05:49 CEST 2015
+The process ended on 80.228.115.4 at Tue Sep 29 04:00:15 CEST 2015
+
+Elements already processed before start: 4,360,607
+Elements found at start: 325,680
+Elements processed in this execution: 53,950
+Elements not processed in this execution: 271,730
+Elements processed until now: 4,414,557
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 28 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Sep 27 23:03:18 CEST 2015
+The process ended on 80.228.115.4 at Mon Sep 28 04:00:13 CEST 2015
+
+Elements already processed before start: 4,304,507
+Elements found at start: 325,680
+Elements processed in this execution: 56,100
+Elements not processed in this execution: 269,580
+Elements processed until now: 4,360,607
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 27 settembre 2015 04:01
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Sep 26 23:03:31 CEST 2015
+The process ended on 80.228.115.4 at Sun Sep 27 04:00:16 CEST 2015
+
+Elements already processed before start: 4,247,957
+Elements found at start: 325,680
+Elements processed in this execution: 56,550
+Elements not processed in this execution: 269,130
+Elements processed until now: 4,304,507
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 26 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Sep 25 23:04:04 CEST 2015
+The process ended on 80.228.115.4 at Sat Sep 26 04:00:10 CEST 2015
+
+Elements already processed before start: 4,192,857
+Elements found at start: 325,680
+Elements processed in this execution: 55,100
+Elements not processed in this execution: 270,580
+Elements processed until now: 4,247,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 25 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Sep 24 23:02:28 CEST 2015
+The process ended on 80.228.115.4 at Fri Sep 25 04:00:05 CEST 2015
+
+Elements already processed before start: 4,133,957
+Elements found at start: 325,680
+Elements processed in this execution: 58,900
+Elements not processed in this execution: 266,780
+Elements processed until now: 4,192,857
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 24 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Sep 23 23:01:43 CEST 2015
+The process ended on 80.228.115.4 at Thu Sep 24 04:00:12 CEST 2015
+
+Elements already processed before start: 4,079,957
+Elements found at start: 325,680
+Elements processed in this execution: 54,000
+Elements not processed in this execution: 271,680
+Elements processed until now: 4,133,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 23 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Sep 22 23:01:46 CEST 2015
+The process ended on 80.228.115.4 at Wed Sep 23 04:00:15 CEST 2015
+
+Elements already processed before start: 4,032,507
+Elements found at start: 325,680
+Elements processed in this execution: 47,450
+Elements not processed in this execution: 278,230
+Elements processed until now: 4,079,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 22 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Sep 21 23:01:53 CEST 2015
+The process ended on 80.228.115.4 at Tue Sep 22 04:00:07 CEST 2015
+
+Elements already processed before start: 3,978,232
+Elements found at start: 325,680
+Elements processed in this execution: 54,275
+Elements not processed in this execution: 271,405
+Elements processed until now: 4,032,507
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	lunedì 21 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sun Sep 20 23:02:06 CEST 2015
+The process ended on 80.228.115.4 at Mon Sep 21 04:00:08 CEST 2015
+
+Elements already processed before start: 3,920,807
+Elements found at start: 325,680
+Elements processed in this execution: 57,425
+Elements not processed in this execution: 268,255
+Elements processed until now: 3,978,232
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 20 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Sep 19 23:02:18 CEST 2015
+The process ended on 80.228.115.4 at Sun Sep 20 04:00:06 CEST 2015
+
+Elements already processed before start: 3,859,957
+Elements found at start: 325,680
+Elements processed in this execution: 60,850
+Elements not processed in this execution: 264,830
+Elements processed until now: 3,920,807
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 19 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Sep 18 23:02:32 CEST 2015
+The process ended on 80.228.115.4 at Sat Sep 19 04:00:11 CEST 2015
+
+Elements already processed before start: 3,802,032
+Elements found at start: 325,680
+Elements processed in this execution: 57,925
+Elements not processed in this execution: 267,755
+Elements processed until now: 3,859,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 18 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Sep 17 23:03:57 CEST 2015
+The process ended on 80.228.115.4 at Fri Sep 18 04:00:11 CEST 2015
+
+Elements already processed before start: 3,745,957
+Elements found at start: 325,680
+Elements processed in this execution: 56,075
+Elements not processed in this execution: 269,605
+Elements processed until now: 3,802,032
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 17 settembre 2015 04:01
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Sep 16 23:03:54 CEST 2015
+The process ended on 80.228.115.4 at Thu Sep 17 04:00:16 CEST 2015
+
+Elements already processed before start: 3,688,057
+Elements found at start: 325,680
+Elements processed in this execution: 57,900
+Elements not processed in this execution: 267,780
+Elements processed until now: 3,745,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	domenica 13 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Sat Sep 12 23:02:58 CEST 2015
+The process ended on 80.228.115.4 at Sun Sep 13 04:00:14 CEST 2015
+
+Elements already processed before start: 3,554,157
+Elements found at start: 325,680
+Elements processed in this execution: 56,125
+Elements not processed in this execution: 269,555
+Elements processed until now: 3,610,282
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	sabato 12 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Fri Sep 11 23:03:24 CEST 2015
+The process ended on 80.228.115.4 at Sat Sep 12 04:00:13 CEST 2015
+
+Elements already processed before start: 3,492,957
+Elements found at start: 325,680
+Elements processed in this execution: 61,200
+Elements not processed in this execution: 264,480
+Elements processed until now: 3,554,157
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	venerdì 11 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Thu Sep 10 23:03:53 CEST 2015
+The process ended on 80.228.115.4 at Fri Sep 11 04:00:11 CEST 2015
+
+Elements already processed before start: 3,436,182
+Elements found at start: 325,680
+Elements processed in this execution: 56,775
+Elements not processed in this execution: 268,905
+Elements processed until now: 3,492,957
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	giovedì 10 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Wed Sep 09 23:03:11 CEST 2015
+The process ended on 80.228.115.4 at Thu Sep 10 04:00:10 CEST 2015
+
+Elements already processed before start: 3,377,357
+Elements found at start: 325,680
+Elements processed in this execution: 58,825
+Elements not processed in this execution: 266,855
+Elements processed until now: 3,436,182
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	mercoledì 9 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Tue Sep 08 23:02:45 CEST 2015
+The process ended on 80.228.115.4 at Wed Sep 09 04:00:13 CEST 2015
+
+Elements already processed before start: 3,319,332
+Elements found at start: 325,680
+Elements processed in this execution: 58,025
+Elements not processed in this execution: 267,655
+Elements processed until now: 3,377,357
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log
+From:	Dbcleaner
+Sent:	martedì 8 settembre 2015 04:00
+To:	EidosMedia Continuous Operations Support
+Subject:	[NWZ] Ended orphans deletion process on NWZ
+
+The process started on 80.228.115.4 at Mon Sep 07 23:03:25 CEST 2015
+The process ended on 80.228.115.4 at Tue Sep 08 04:00:12 CEST 2015
+
+Elements already processed before start: 3,264,132
+Elements found at start: 325,680
+Elements processed in this execution: 55,200
+Elements not processed in this execution: 270,480
+Elements processed until now: 3,319,332
+
+ You can check log's files for more details about process:
+/methode/methcms/tools/orphansdeletion/logs/start_orphans.log
+/methode/methcms/tools/orphansdeletion/logs/orphandeletion.log

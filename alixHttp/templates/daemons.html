@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta name="robots" content="noindex" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="{{static_url("pics/homescreen.gif")}}" rel="apple-touch-icon" />
+<meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport" />
+<link href="{{static_url("css/style.css")}}" rel="stylesheet" media="screen" type="text/css" />
+<script src="{{static_url("javascript/functions.js")}}" type="text/javascript"></script>
+<title>Alix's Daemons</title>
+</head>
+<body>
+<div id="topbar">
+	<div id="title">Alix's Daemons</div>
+	<div id="leftnav">
+		<a href="/"><img alt="home" src="{{static_url("images/home.png")}}" /></a>
+	</div>
+</div>
+<div id="content">
+		<fieldset>
+		<ul class="pageitem">
+			{% for service in services %}
+			<form method="POST" action="/daemon" style="margin: 0; text-align: center;">
+			<input type="hidden" value="{{service.getName()}}" name="servname">
+			<li class="checkbox"><span class="name">{{ service.getName() }} </span>
+			<input type="checkbox" name="action" value={% if service.isUp() %}"stop"{% else %}"start"{% end %} onclick="this.form.submit();" {% if service.isUp() %}checked{% end %}/> </li>
+			</form>
+			{% end %}
+		</ul>
+		</fieldset>
+</div>
+<div id="footer">
+	<!-- Support iWebKit by sending us traffic; please keep this footer on your page, consider it a thank you for my work :-) -->
+	<a class="noeffect" href="http://snippetspace.com">iPhone site powered by iWebKit</a></div>
+
+</body>
+
+</html>
+
