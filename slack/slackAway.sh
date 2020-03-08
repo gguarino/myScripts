@@ -23,3 +23,4 @@ esac
 
 echo "Set me to ${presence} on Slack."
 curl -s "https://slack.com/api/users.setPresence?token=${token}&presence=${presence}&pretty=1"
+xsxs
