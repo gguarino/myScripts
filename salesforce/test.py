@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
 
+
+
 '''
 CaseFeed attachments
 SELECT Body,CreatedDate,Id,LastModifiedDate, LinkUrl,ParentId,RelatedRecordId,SystemModstamp,Title,Type,Visibility FROM CaseFeed WHERE ParentId = '5005F000010coqZQAQ' and Type = 'ContentPost' ORDER BY CreatedDate DESC NULLS FIRST LIMIT 10
 
+IMPROVE
+
+https://github.com/ysfdc/salesforce_scripts/blob/master/attachments_downloader.py
 
 '''
 #!/usr/bin/env python3
@@ -51,9 +56,11 @@ def getAttachmentList (sf, cn):
 
     caseFeedQuery =  sf.query("SELECT Id,Title,CreatedDate FROM CaseFeed where Type='ContentPost' AND ParentId='%s'" % caseId)
     caseFeedAttachments = caseFeedQuery['records']
+    print(caseFeedAttachments)
 
-    print(caseFeedQuery['records'])
-
+    caseFeedQuery2 =  sf.query("SELECT Body, (SELECT RecordId, Title, Type, Value FROM FeedAttachments) FROM FeedItem WHERE Id='0D55F00008s95MlSAI'")
+    print(caseFeedQuery2)
+    exit()
     if len(caseFeedAttachments) > 0:
 
         for i in range(len(caseFeedAttachments)):
