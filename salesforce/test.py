@@ -8,7 +8,7 @@ SELECT Body,CreatedDate,Id,LastModifiedDate, LinkUrl,ParentId,RelatedRecordId,Sy
 
 IMPROVE
 
-https://github.com/ysfdc/salesforce_scripts/blob/master/attachments_downloader.py
+https://github.com/w
 
 '''
 #!/usr/bin/env python3
