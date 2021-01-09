@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+    #!/usr/bin/python3
 
 import botconfig as cfg
 from classes import dbMonger, iperBimbo
